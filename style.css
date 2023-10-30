@@ -14,14 +14,27 @@ p {
 }
 
 .ingredient {
+    background-color: yellow;
     color: red;
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .step {
+    background-color: orange;
     color: purple;
     font-size 32px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 300;
+}
+
+.recipe {
+    font-size: 56px;
+    text-align: center;
+    border: dotted;
+}
+
+.step {
+    border: solid;
+    padding: 12px;
 }
